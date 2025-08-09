@@ -1,1 +1,2 @@
 # odin-recipes
+The current project is to create a HTML based website providing lists of recipes. Using the knowledge of HTML I have recently gained, I will incorporate headers, lists, images and links.
