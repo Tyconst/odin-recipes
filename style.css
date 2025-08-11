@@ -1,0 +1,45 @@
+/*Stylesheet*/
+*{
+    font-family:fantasy;
+    background-color: bisque;
+}
+
+h1 {
+font-style: italic;
+color: rgba(166, 129, 173, 0.857);
+box-sizing: border-box;
+width: auto;
+height: 80px;
+text-align: center;
+padding: 10px;
+border: 10px;
+border-style: double;
+border-color: rgba(59, 117, 46, 0.615)
+}
+
+figure {
+margin-left: 0;
+}
+
+figcaption {
+font-size: 12px;
+}
+
+.directory {
+width: 150px;
+height: auto;
+text-align: left;
+padding: 25px;
+border: 10px;
+border-style: groove;
+border-color: rgba(133, 113, 47, 0.615)
+}
+
+div {
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+    margin: 15px;
+    text-align: center;
+}
